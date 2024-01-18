@@ -1,3 +1,4 @@
 # TOASTER
 input{kim_ghgh}
-print
+print = input
+
