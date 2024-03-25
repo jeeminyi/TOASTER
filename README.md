@@ -1,4 +1,3 @@
 # TOASTER
-input{kim_ghgh}
-print = input
+토스터 방명록 ㅋㅅㅋ
 
